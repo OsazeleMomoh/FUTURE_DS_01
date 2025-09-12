@@ -20,6 +20,7 @@ This task entailed the analysis of e-commerce sales data for a client to provide
   Additional Metrics: 
   
   Link 1: https://public.tableau.com/views/Task1GeneralMetrics/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  
   Link 2: https://public.tableau.com/views/Task1AdditionalMetrics/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
 - Screenshots:
