@@ -41,7 +41,7 @@ This task entailed the analysis of e-commerce sales data for a client to provide
 
 ## How to use
 1. Download or clone this repository
-2. Open the *Tableau* file with *Tableau Desktop* OR click the interactive link
+2. Open the *Tableau* files with *Tableau Desktop* OR click the links to view via the *Tableau* website
 3. Explore the interactive dashboard and insights
 
 ---
