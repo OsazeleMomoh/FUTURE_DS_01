@@ -16,18 +16,22 @@ This task entailed the analysis of e-commerce sales data for a client to provide
 
 ## Repository Structure
 - Tableau Files:
-  General Metrics:
-  Additional Metrics: 
+  
+  General Metrics: https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1GeneralMetrics.twbx
+  
+  Additional Metrics: https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1AdditionalMetrics.twbx
   
   Link 1: https://public.tableau.com/views/Task1GeneralMetrics/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
   
   Link 2: https://public.tableau.com/views/Task1AdditionalMetrics/Dashboard12?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
 - Screenshots:
-  1. 
-  2. 
+  
+  1. https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1GeneralMetrics.png
+  
+  2. https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1AdditionalMetrics.png
 
-- Dataset:
+- Dataset: https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/superstore_cleaned.csv
 
 ## Skills Gained
 - Data Cleaning
