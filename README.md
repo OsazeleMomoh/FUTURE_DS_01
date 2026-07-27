@@ -15,8 +15,6 @@ This task entailed the analysis of e-commerce sales data for a client to provide
 - Total sales generated per segment
 
 ## Repository Structure 
-- Dashboard Screenshots:
-  
   1. General Metrics: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1GeneralMetrics.png "General Metrics")
   
   2. Additional Metrics: ![alt text](https://github.com/OsazeleMomoh/FUTURE_DS_01/blob/main/Task1AdditionalMetrics.png "Additional Metrics")
