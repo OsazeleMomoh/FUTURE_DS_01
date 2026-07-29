@@ -1,5 +1,4 @@
-# FUTURE_DS_01
-## Task 1: E-Commerce Data Analysis Dashboard (Tableau)
+# Task 1: E-Commerce Data Analysis Dashboard (Tableau)
 
 This repository will house my work for *Task 1* of my internship with Future Interns.
 This task entailed the analysis of e-commerce sales data for a client to provide them with insights such as *best-selling products*, *sales trends* and *high-revenue categories* using *Tableau*. I chose *Tableau* for this task because I'm a *MacOS* user. A similar dashboard can be achieved using *Power BI*.
